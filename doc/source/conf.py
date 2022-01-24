@@ -360,6 +360,6 @@ autoclass_content = 'both'
 # texinfo_no_detailmenu = False
 
 doctest_global_setup = """
-import python-igraph as ig
+import igraph as ig
 import leidenalg as la
 """

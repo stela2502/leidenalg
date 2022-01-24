@@ -1,5 +1,5 @@
 import unittest
-import python-igraph as ig
+import igraph as ig
 import leidenalg
 
 from functools import reduce
