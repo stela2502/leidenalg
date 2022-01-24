@@ -1,4 +1,4 @@
-import igraph as _ig
+import python-igraph as _ig
 from . import _c_leiden
 from .functions import _get_py_capsule
 

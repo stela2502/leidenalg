@@ -1,5 +1,5 @@
 import sys
-import igraph as _ig
+import python-igraph as _ig
 from . import _c_leiden
 from ._c_leiden import ALL_COMMS
 from ._c_leiden import ALL_NEIGH_COMMS
